@@ -1,6 +1,6 @@
 # keyboard
 
-Configuration I use for the White-/Nightfox keyboard from Input:Club.
+Configuration I use for the White-/Nightfox keyboard from Input:Club. In case you're curious you can copy the `whitefox.json` file and import it in the configurator linked below.
 
 ## Resources
 
